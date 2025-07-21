@@ -12,7 +12,7 @@ From The LoRaWAN Device Repository (recommended for pre-configured devices)
 4.Manually (for custom or unsupported devices)
 Fill in the required fields:
 
-5.Join EUI and DevEUI – provided by your device manufacturer or generated manually.
+5.Join EUI(App EUI) and DevEUI – provided by your device manufacturer or generated manually.
 
 6.App Key – used for secure OTAA join. Keep this key confidential.
 
