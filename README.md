@@ -1,5 +1,8 @@
 # registering-end-devices
 this is how you register your new end device using The Things Network console
+https://www.thethingsindustries.com/docs/hardware/devices/adding-devices/
+
+
 
 1.Log in to the TTN Console.
 
